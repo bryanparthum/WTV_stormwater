@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1188538.svg)](https://doi.org/10.5281/zenodo.3525264)
+
 # Willingness-to-Volunteer and Stability of Preferences between Cities: Estimating the Benefits of Stormwater Management
 
 
