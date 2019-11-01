@@ -1,7 +1,7 @@
 # Willingness-to-Volunteer and Stability of Preferences between Cities: Estimating the Benefits of Stormwater Management
 
 
-This repo contains data and code for reproducing Ando *et al*. (2019), "[Willingness-to-Volunteer and Stability of Preferences between Cities: Estimating the Benefits of Stormwater Management](http://dx.doi.org/)". 
+This repo contains data and code for reproducing Ando *et al*. (2019), "[Willingness-to-Volunteer and Stability of Preferences between Cities: Estimating the Benefits of Stormwater Management](https://doi.org/10.1016/j.jeem.2019.102274)". 
 
 > **Abstract:** Urbanization strains existing stormwater systems, yielding high flood rates, degraded urban aquatic habitat, and low water quality in lakes and rivers. Cities increasingly rely on green infrastructure stormwater solutions that can be maintained in part by volunteers. This paper uses a choice experiment survey in two major U.S. cities – Chicago, Illinois and Portland, Oregon – to estimate the benefits of stormwater management improvement in terms of stated willingness to pay (WTP) money and willingness to volunteer (WTV) time. We find that stormwater management can produce large bundles of benefits. Estimates of WTP are largely (though not comprehensively) stable across cities, but WTV for several benefits is higher in Portland. Finally, while people are willing to volunteer time for some amenities consistent with time valued at 1/3 the average wage rate, a person’s WTV time is not correlated with their own wage rate and people appear to gain positive utility from volunteering.
 
