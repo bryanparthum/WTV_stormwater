@@ -23,7 +23,7 @@ The analyses in this paper involves many computationally intensive random parame
 
 ## Problems
 
-If any errors are discovered, please inform the owner of this repository at bparthum@gmail.com. Thank you, and enjoy!
+If any errors are discovered, please inform the owner of this repository at parthum.bryan@epa.gov. Thank you, and enjoy!
 
 ## License
 
